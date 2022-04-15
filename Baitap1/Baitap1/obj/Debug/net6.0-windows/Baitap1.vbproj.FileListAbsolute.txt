@@ -1,0 +1,17 @@
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.vbproj.AssemblyReference.cache
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.Form1.resources
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.vbproj.GenerateResource.cache
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.AssemblyInfoInputs.cache
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.AssemblyInfo.vb
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.vbproj.CoreCompileInputs.cache
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\bin\Debug\net6.0-windows\Baitap1.exe
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\bin\Debug\net6.0-windows\Baitap1.deps.json
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\bin\Debug\net6.0-windows\Baitap1.runtimeconfig.json
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\bin\Debug\net6.0-windows\Baitap1.dll
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\bin\Debug\net6.0-windows\Baitap1.pdb
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.dll
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\refint\Baitap1.dll
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.pdb
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\Baitap1.genruntimeconfig.cache
+E:\SPKT\HK2-2021-2022\TH_LTTQ\Baitap1\Baitap1\obj\Debug\net6.0-windows\ref\Baitap1.dll
